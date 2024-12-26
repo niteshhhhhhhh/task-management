@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+
+}
+
+
+#nameInput{
+    font-size: 20px;
+    width: 300px;
+    padding: 12px 8px;
+    margin-right: 20px;
+}
+
+#submitBtn{
+    padding: 10px 7px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+label{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+div{
+    margin: 20px 0px;
+}
+
+hr{
+    margin: 15px 0px;
+}
